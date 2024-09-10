@@ -25,3 +25,21 @@ body {
 
     transition: 1s;
 }
+
+.ball2 {
+    width: 100px;
+    height: 100px;
+    align-content: center;
+
+    margin: 30px auto;
+
+    border-radius: 50%;
+    background-color: pink;
+
+    text-align: center;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+
+    transition: 1s;
+}

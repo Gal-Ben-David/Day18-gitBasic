@@ -17,8 +17,11 @@ body {
 
     border-radius: 50%;
     background-color: blanchedalmond;
+
     text-align: center;
     color: black;
     font-size: 22px;
     font-weight: bold;
+
+    transition: 1s;
 }
